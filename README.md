@@ -1,5 +1,3 @@
-# Multi-Omics-Breast-Cancer-Case-Study
-
 # Multi-Omics Analysis of Breast Cancer (TCGA-BRCA)
 
 **R-based analysis** of TCGA Breast Cancer RNA-Seq, Copy Number, and clinical data.
